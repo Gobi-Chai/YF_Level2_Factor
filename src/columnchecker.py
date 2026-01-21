@@ -1,6 +1,6 @@
 import pandas as pd
 
-path = '/Users/geraldchai/Documents/02-Work(interns:projects:cvs)/2026 Fall/面试/雁丰/20251209_行情数据/600048.SH/逐笔成交.csv'
+path = 'Add your path name'
 df = pd.read_csv(path, encoding="gbk")
 
 # 看列 index
